@@ -1,4 +1,4 @@
-n == int(input("N: "))
+n = int(input("N: "))
 if n%2 ==0;
    print("Odd")
 else:
